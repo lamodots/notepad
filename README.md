@@ -1,3 +1,7 @@
+##Planning Phase
+The design: https://www.figma.com/proto/U16JrUuoJzqfjCYfdZZ9kg/Untitled?type=design&node-id=1-3&t=wAWUNLSN4vYdXsT2-0&scaling=scale-down&page-id=0%3A1
+
+##The boiler plate
 Step 1 - Install Typescript
 
 `
