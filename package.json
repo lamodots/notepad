@@ -1,9 +1,12 @@
 {
+  "homepage": "https://lamodots.github.io/notepad",
   "name": "notepad",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start-json-server": "json-server --watch ./db/db.json",
     "watch": "webpack --watch",
     "serve": "webpack-dev-server",
